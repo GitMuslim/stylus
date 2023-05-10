@@ -7,7 +7,7 @@
 
 <p align="center">
 	<a href="https://github.com/mustafakhalaf-git/stylus/stargazers"><img src="https://img.shields.io/github/stars/mustafakhalaf-git/stylus?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/mustafakhalaf-git/stylus/issues"><img src="https://img.shields.io/github/issues/mustafakhalaf-git/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/mustafakhalaf-git/stylus/issues"><img src="https://img.shields.io/github/issues/mustafakhalaf-git/stylus?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://github.com/mustafakhalaf-git/stylus/contributors"><img src="https://img.shields.io/github/contributors/mustafakhalaf-git/stylus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
