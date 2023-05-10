@@ -2,7 +2,7 @@
 @name           Stylus Catppuccin
 @namespace      github.com/catppuccin/stylus
 @homepageURL    https://github.com/catppuccin/stylus
-@version        1.0.0
+@version        1.0.1
 @description    Soothing pastel theme for Stylus
 @author         Catppuccin - mustafakhalaf-git
 @preprocessor   less
@@ -12,7 +12,7 @@
 @var select theme "Theme" ["latte:Latte", "frappe:Frappe", "macchiato:Macchiato", "mocha:Mocha"]
 ==/UserStyle== */
 
-@-moz-document domain("ae003653-e916-46f9-a68c-51350e5820fa") {
+@-moz-document domain("ae003653-e916-46f9-a68c-51350e5820fa"), domain(clngdbkpkpeebahjckkjfobafhncgmne)  {
     @catppuccin: {
         @latte: {
             @rosewater: #dc8a78;
