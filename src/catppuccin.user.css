@@ -2,13 +2,12 @@
 @name           Stylus Catppuccin
 @namespace      github.com/catppuccin/stylus
 @homepageURL    https://github.com/catppuccin/stylus
-@version        1.0.2
+@version        1.0.3
 @description    Soothing pastel theme for Stylus
 @author         Catppuccin - mustafakhalaf-git
 @preprocessor   less
 @updateURL      https://github.com/catppuccin/stylus/raw/main/src/catppuccin.user.css
 @license        MIT
-@metadata       fix
 
 @var select theme "Theme" ["latte:Latte", "frappe:Frappe", "macchiato:Macchiato", "mocha:Mocha"]
 ==/UserStyle== */
@@ -176,7 +175,7 @@
             --c60: @subtext0;
             --c65: @surface2;   
             --c75: @overlay1;
-            --c80: @mantle;
+            --c80: @surface1;
             --c85: @surface0;
             --c95: @mantle;
             --accent-1: @sky;
@@ -253,10 +252,10 @@
             color: @base
         }
         .svg-icon:hover {
-          fill: @surface1;
+          fill: @overlay1;
         }
         .svg-icon {
-          fill: @base;
+          fill: @overlay0;
         }
         .onoffswitch input:checked + span {
           background-color: @teala
