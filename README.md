@@ -12,26 +12,26 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/previews/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/previews/latte.png"/>
+<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/previews/frappe.png"/>
+<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/previews/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/previews/mocha.png"/>
+<img src="https://raw.githubusercontent.com/mustafakhalaf/stylus/main/assets/mocha.png"/>
 </details>
 
 ## Usage
