@@ -2,7 +2,7 @@
 @name           Stylus Catppuccin
 @namespace      github.com/catppuccin/stylus
 @homepageURL    https://github.com/catppuccin/stylus
-@version        1.0.3
+@version        1.0.4
 @description    Soothing pastel theme for Stylus
 @author         Catppuccin - mustafakhalaf-git
 @preprocessor   less
@@ -265,6 +265,9 @@
         }
         #options-title {
             color: @base;
+        }
+        h2 {
+            color: @teal !important;
         }
     }
 }
